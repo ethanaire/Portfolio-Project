@@ -8,6 +8,8 @@ Version: 1.0
 --------------------------------------------------------------------
 */
 -- create schemas
+use BikeStores;
+
 CREATE SCHEMA production;
 go
 
